@@ -1,0 +1,14 @@
+﻿  Enemy.cpp
+C:\Users\benst\source\repos\West Life fantasy Text\Enemy.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Game.cpp
+C:\Users\benst\source\repos\West Life fantasy Text\Enemy.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Overworld.cpp
+  Player.cpp
+  West Life fantasy Text.cpp
+C:\Users\benst\source\repos\West Life fantasy Text\Enemy.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\benst\source\repos\West Life fantasy Text\West Life fantasy Text.cpp(19,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 211 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  West Life fantasy Text.vcxproj -> C:\Users\benst\source\repos\West Life fantasy Text\Release\West Life fantasy Text.exe
